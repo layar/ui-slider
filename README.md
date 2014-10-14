@@ -1,3 +1,5 @@
+Forked because of https://github.com/angular-ui/ui-slider/issues/41#issuecomment-50637805
+
 # ui-slider directive
 
 Due to popular demand. This is WIP so expect breaking changes!
